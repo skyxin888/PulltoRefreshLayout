@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+    </style>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="PulltoRefresh">
+        <item name="progress_size_type">normal</item>
+        <item name="wave_color">#90ffffff</item>
+        <item name="wave_height_type">normal</item>
+        <item name="wave_show">true</item>
+        <item name="progress_colors">@array/material_colors</item>
+    </style>
+</resources>

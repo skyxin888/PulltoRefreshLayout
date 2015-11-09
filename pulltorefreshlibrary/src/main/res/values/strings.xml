@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PulltoRefreshLibrary</string>
+
+    <integer-array name="material_colors">
+        <item>@color/material_red</item>
+    </integer-array>
+</resources>
