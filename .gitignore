@@ -1,1 +1,7 @@
 .idea/
+.gradle/
+*.iml
+*.properties
+
+build/
+.idea/
